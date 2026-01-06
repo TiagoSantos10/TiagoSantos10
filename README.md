@@ -60,7 +60,7 @@
   - <a href="https://marketplace.atlassian.com/apps/1233024/github-repo-links-for-jira?utm_source=website&utm_medium=app_page&utm_campaign=websiteGHJ&utm_id=S-GHJ">GitHub Links</a> — Contributed in the beginning of the development of Github Links app for Jira
   - <a href="https://marketplace.atlassian.com/apps/1233114/release-manager-for-jira-sync-versions-across-projects?hosting=cloud&tab=pricing&utm_source=website&utm_medium=app_page&utm_campaign=websiteRMJ&utm_id=S-RMJ">Release Manager</a> — Contributed in the beginning of the development of Release Manager app for Jira
   - <a href="https://gomes-rego-website.vercel.app/">Gomes Rego & Associados SROC</a> — Website developed for the Gomes Rego & Associados SROC company
-  - <a href="https://www.spms.min-saude.pt/">Serviços Partilhados do Ministério de Saúde — Developed apps to make the upcoming doctors process digital
+  - <a href="https://www.spms.min-saude.pt/">Serviços Partilhados do Ministério de Saúde</a> — Developed apps to make the upcoming doctors process digital
 
 ---
 
